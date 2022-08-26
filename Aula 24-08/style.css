@@ -1,0 +1,22 @@
+.titulo{
+    color: red !important;
+    background-color: yellow;
+};
+
+.subtitulo{
+    color: greenyellow;
+};
+
+.container {
+    width: 80%;
+}
+
+.title {
+    color: red;
+}
+
+.titulo{
+    color: purple;
+    background-color: limegreen;
+}
+
